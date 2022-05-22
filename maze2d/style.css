@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Gothic+A1&display=swap');
+
+@font-face {
+    font-family: 'SDSamliphopangche_Outline';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts-20-12@1.0/SDSamliphopangche_Outline.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1 {
+    font-family: 'SDSamliphopangche_Outline';
+}
+
+div {
+    font-family: 'Gothic A1';
+}
+
+.world {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
